@@ -1,3 +1,4 @@
+# My perfomance metrics
 <!--START_SECTION:waka-->
 
 ```text
@@ -12,7 +13,3 @@ Other      0 secs          -------------------------   00.33 %
 ```
 
 <!--END_SECTION:waka-->
-
-<p align="center">
-  <img src="img/coding_toad.gif" />
-</p>
