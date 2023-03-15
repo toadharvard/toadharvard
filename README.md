@@ -2,11 +2,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 January 2023 - To: 12 March 2023
+From: 28 January 2023 - To: 13 March 2023
 
-Total Time: 35 hrs 22 mins
+Total Time: 35 hrs 27 mins
 
-Kotlin           33 hrs 45 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   95.44 %
+Kotlin           33 hrs 50 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   95.44 %
 Markdown         33 mins         -------------------------   01.59 %
 Python           27 mins         -------------------------   01.29 %
 GitIgnore file   23 mins         -------------------------   01.11 %
